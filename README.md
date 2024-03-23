@@ -16,6 +16,18 @@ of how far each side of the car was from the boundaries of the course, allowing 
 * 2x [Adafruit VL53L0X](https://www.adafruit.com/product/3317)
 
 ## Schematics
+Principle of how the car should function.
+
+<img src="https://raw.githubusercontent.com/Tjorven-V/Final-Project-Self-Navigating-RC-Car/main/Schematics/Principle.png" alt="drive" width="256"/>
+
+(Outdated) Schematic showing connections between hardware.
+
+<img src="https://raw.githubusercontent.com/Tjorven-V/Final-Project-Self-Navigating-RC-Car/main/Schematics/Schematic.png" alt="connect" width="256"/>
+
+Schematic of how hardware interacts with one another. Arrows indicate direction of data (Read/Write.) 
+
+<img src="https://raw.githubusercontent.com/Tjorven-V/Final-Project-Self-Navigating-RC-Car/main/Schematics/Diagram.png" alt="schematic" width="256"/>
+
 
 
 ## Demonstration
